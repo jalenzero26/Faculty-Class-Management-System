@@ -1,0 +1,13 @@
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\bin\Debug\netcoreapp3.1\Faculty-Class-Management-System.exe
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\bin\Debug\netcoreapp3.1\Faculty-Class-Management-System.deps.json
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\bin\Debug\netcoreapp3.1\Faculty-Class-Management-System.runtimeconfig.json
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\bin\Debug\netcoreapp3.1\Faculty-Class-Management-System.runtimeconfig.dev.json
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\bin\Debug\netcoreapp3.1\Faculty-Class-Management-System.dll
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\bin\Debug\netcoreapp3.1\Faculty-Class-Management-System.pdb
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\obj\Debug\netcoreapp3.1\Faculty-Class-Management-System.csprojAssemblyReference.cache
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\obj\Debug\netcoreapp3.1\Faculty-Class-Management-System.AssemblyInfoInputs.cache
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\obj\Debug\netcoreapp3.1\Faculty-Class-Management-System.AssemblyInfo.cs
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\obj\Debug\netcoreapp3.1\Faculty-Class-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\obj\Debug\netcoreapp3.1\Faculty-Class-Management-System.dll
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\obj\Debug\netcoreapp3.1\Faculty-Class-Management-System.pdb
+C:\Users\Carino\source\repos\Faculty-Class-Management-System\Faculty-Class-Management-System\obj\Debug\netcoreapp3.1\Faculty-Class-Management-System.genruntimeconfig.cache
